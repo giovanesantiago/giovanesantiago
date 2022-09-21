@@ -1,4 +1,14 @@
-### Hi there 👋
+# Ola, eu sou Giovane Santiago 👋
+### Portfolio :
+https://giovanesantiago.netlify.app/
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=giovanesantiago&show_icons=true"/><br>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanesantiago&layout=compact"/>
+</p>
+
 
 <!--
 **giovanesantiago/giovanesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
