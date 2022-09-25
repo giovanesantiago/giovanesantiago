@@ -1,6 +1,7 @@
 <h1 align="center">Olá!  eu sou o Giovane Santiago <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> </h1>
-### Portfolio :
-https://giovanesantiago.netlify.app/
+<h3 align="center"> <a href="https://giovanesantiago.netlify.app/" target="_blank">* Portfolio *</a> </h3>
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -10,17 +11,3 @@ https://giovanesantiago.netlify.app/
 </p>
 
 
-<!--
-**giovanesantiago/giovanesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
