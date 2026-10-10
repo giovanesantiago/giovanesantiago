@@ -6,7 +6,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanesantiago&layout=compact&langs_count=7&theme=dracula"/>
+<img width="500em" src="https://github-readme-stats-alpha-ochre-34.vercel.app/api/top-langs/?username=giovanesantiago&layout=compact&langs_count=10&theme=dracula&exclude_repo=anotacoes-work"/>
 </p>
 
 
